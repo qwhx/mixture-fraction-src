@@ -1,0 +1,4 @@
+
+mixtureFraction.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmixtureFraction

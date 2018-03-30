@@ -1,11 +1,6 @@
 /* 
 This is a small library class to calculate mixture fraction from OpenFOAM
 mixture class. 
-
-Author: Jian Cai 
-Contact: jcai@uwyo.edu
-Please submit comments/questions/requests directly to the source code 
-host website.
 */
 
 #include "mixtureFraction.H"
